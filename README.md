@@ -45,7 +45,7 @@ This project analyzes the **2022 Los Angeles Dodgers attendance data** to identi
 
 ---
 How to Run the Notebook
-git clone https://github.com/yourusername/dodgers-attendance-analysis.git
+git clone https://github.com/LoveselvanGit/dodgers-attendance-analysis.git
 cd dodgers-attendance-analysis
 jupyter notebook notebooks/DSC630_WEEK3_MAHALINGAM.ipynb
 Run the Notebook Cells to execute the analysis and visualize the results.
